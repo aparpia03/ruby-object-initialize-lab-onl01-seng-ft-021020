@@ -1,6 +1,6 @@
 Class person 
 
-def initialize 
+def initialize()
 
 
 end
